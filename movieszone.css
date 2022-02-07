@@ -24,7 +24,7 @@ body{
 }
 
 .home-image{
-    background-image: url(hoome.jpg);
+    background-image: url(./assets/hoome.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,6 +33,7 @@ body{
     border-radius: 20px;
     position: relative;
     filter: brightness();
+    left: 10px;
 }
 
 .home-image-text{
@@ -106,7 +107,7 @@ body{
     transform: scale(1.1);
     transition: 0.4s ease-in-out;
     transition-delay: 0.1s;
-    filter: brightness(70%);
+    filter: brightness(65%);
 
 }
 
