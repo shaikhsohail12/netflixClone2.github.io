@@ -39,6 +39,7 @@ body{
 
 .banner{
     width: 100%;
+    min-width: 200%;
     height: 100vh;
     position: relative;
     display: flex;
